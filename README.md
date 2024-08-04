@@ -1,0 +1,1 @@
+This project is a collaborative storytelling platform where users can contribute to ongoing stories and participate in community-driven storytelling. The platform allows users to write, read, and comment on stories, and every contribution is voted on by the community. The most upvoted contributions become part of the story, creating a dynamic and evolving narrative experience.
